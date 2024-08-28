@@ -2,3 +2,6 @@ name: ls-AdminZone
 version: '${project.version}'
 main: ru.lxckscream.lsadminzone.Main
 api-version: '1.16'
+commands:
+  adminzone:
+    aliases: [az, azone]
