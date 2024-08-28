@@ -1,0 +1,4 @@
+name: ls-AdminZone
+version: '${project.version}'
+main: ru.lxckscream.lsadminzone.Main
+api-version: '1.16'
